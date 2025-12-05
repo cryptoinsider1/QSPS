@@ -6,10 +6,10 @@ version: "1.0.0"
 date-released: "2025-12-05"
 
 authors:
-  - family-names: "Goncharov"
-    given-names: "Vladimir"
-    orcid: "[https://orcid.org/0000-0004-1430-3376](https://orcid.org/0000-0004-1430-3376)"
-    type: article
+- family-names: "Goncharov"
+  given-names: "Vladimir"
+  orcid: "[https://orcid.org/0000-0004-1430-3376](https://orcid.org/0000-0004-1430-3376)"
+  type: article
 
 repository-code: "[https://github.com/cryptoinsider1/QSPS](https://github.com/cryptoinsider1/QSPS)"
 license: "MIT"
@@ -20,26 +20,26 @@ abstract: >
   and visualisation of bound-state wavefunctions.
 
 keywords:
-    quantum physics
-    quantum mechanics
-    hydrogen-like atoms
-    Coulomb potential
-    spectral invariants
-    probability density
+  quantum physics
+  quantum mechanics
+  hydrogen-like atoms
+  Coulomb potential
+  spectral invariants
+  probability density
 
 identifiers:
-    type: doi
-    value: "10.5281/qsps.2025.00001"
-    type: url
-    value: "[https://github.com/cryptoinsider1/QSPS](https://github.com/cryptoinsider1/QSPS)"
-    preferred-citation:
-    type: article
+  type: doi
+  value: "10.5281/qsps.2025.00001"
+  type: url
+  value: "[https://github.com/cryptoinsider1/QSPS](https://github.com/cryptoinsider1/QSPS)"
+  preferred-citation:
+  type: article
 
 authors:
-  - family-names: "Goncharov"
-    given-names: "Vladimir"
-    orcid: "[https://orcid.org/0000-0004-1430-3376](https://orcid.org/0000-0004-1430-3376)"
-    title: "Quantum structure of the perinuclear space and spectral invariants of the Coulomb field in hydrogen-like atoms"
-    year: 2025
-    journal: "Preprint"
-    doi: "10.5281/qsps.2025.00001"
+- family-names: "Goncharov"
+  given-names: "Vladimir"
+  orcid: "[https://orcid.org/0000-0004-1430-3376](https://orcid.org/0000-0004-1430-3376)"
+  title: "Quantum structure of the perinuclear space and spectral invariants of the Coulomb field in hydrogen-like atoms"
+  year: 2025
+  journal: "Preprint"
+  doi: "10.5281/qsps.2025.00001"
