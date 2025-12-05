@@ -7,8 +7,8 @@ version: 0.1.0
 date-released: 2025-12-05
 
 authors:
-  - family-names: Goncharov
-    given-names: Vladimir
+  - family-names: "Goncharov"
+    given-names: "Vladimir"
     orcid: "https://orcid.org/0000-0004-1430-3376"
 
 repository-code: "https://github.com/cryptoinsider1/QSPS"
