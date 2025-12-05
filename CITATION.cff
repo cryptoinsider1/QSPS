@@ -1,45 +1,28 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite it as described below."
+message: "If you use this software, please cite it as below."
 type: software
-title: "Quantum structure of the perinuclear space and spectral invariants of the Coulomb field in hydrogen-like atoms"
-version: "1.0.0"
-date-released: "2025-12-05"
+
+title: "QSPS: Quantum structure of the perinuclear space and spectral invariants of the Coulomb field in hydrogen-like atoms"
+version: 0.1.0
+date-released: 2025-12-05
 
 authors:
-- family-names: "Goncharov"
-  given-names: "Vladimir"
-  orcid: "[https://orcid.org/0000-0004-1430-3376](https://orcid.org/0000-0004-1430-3376)"
-  type: article
+  - family-names: Goncharov
+    given-names: Vladimir
+    orcid: "https://orcid.org/0000-0004-1430-3376"
 
-repository-code: "[https://github.com/cryptoinsider1/QSPS](https://github.com/cryptoinsider1/QSPS)"
+repository-code: "https://github.com/cryptoinsider1/QSPS"
 license: "MIT"
 
 abstract: >
-  Analysis of the quantum structure of the perinuclear region in hydrogen-like atoms,
-  including radial probability density, spectral properties of the Coulomb field,
-  and visualisation of bound-state wavefunctions.
+  QSPS provides LaTeX sources, figures and Python code for studying
+  the radial potential and probability density in hydrogen-like atoms,
+  including visualization of the perinuclear region and spectral
+  properties of the Coulomb field.
 
 keywords:
-  quantum physics
-  quantum mechanics
-  hydrogen-like atoms
-  Coulomb potential
-  spectral invariants
-  probability density
-
-identifiers:
-  type: doi
-  value: "10.5281/qsps.2025.00001"
-  type: url
-  value: "[https://github.com/cryptoinsider1/QSPS](https://github.com/cryptoinsider1/QSPS)"
-  preferred-citation:
-  type: article
-
-authors:
-- family-names: "Goncharov"
-  given-names: "Vladimir"
-  orcid: "[https://orcid.org/0000-0004-1430-3376](https://orcid.org/0000-0004-1430-3376)"
-  title: "Quantum structure of the perinuclear space and spectral invariants of the Coulomb field in hydrogen-like atoms"
-  year: 2025
-  journal: "Preprint"
-  doi: "10.5281/qsps.2025.00001"
+  - quantum mechanics
+  - hydrogen-like atoms
+  - Coulomb potential
+  - radial probability density
+  - perinuclear region
