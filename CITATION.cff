@@ -31,10 +31,10 @@ authors:
   type: article
   authors:
 
--   family-names: "Goncharov"
-    given-names: "Vladimir"
-    orcid: "[https://orcid.org/0000-0004-1430-3376](https://orcid.org/0000-0004-1430-3376)"
-    title: "Quantum structure of the perinuclear space and spectral invariants of the Coulomb field in hydrogen-like atoms"
-    year: 2025
-    journal: "Preprint"
-    doi: "10.5281/qsps.2025.00001"
+- family-names: "Goncharov"
+  given-names: "Vladimir"
+  orcid: "[https://orcid.org/0000-0004-1430-3376](https://orcid.org/0000-0004-1430-3376)"
+  title: "Quantum structure of the perinuclear space and spectral invariants of the Coulomb field in hydrogen-like atoms"
+  year: 2025
+  journal: "Preprint"
+  doi: "10.5281/qsps.2025.00001"
