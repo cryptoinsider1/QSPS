@@ -6,31 +6,6 @@ This repository contains the LaTeX manuscript and reproducible code for the proj
 
 The goal of the project is to analyse the radial potential and probability density in hydrogen–like atoms, to visualise the perinuclear region, and to study spectral invariants of the Coulomb field.
 
----
-
-## Repository structure
-
-```text
-QSPS/
-  README.md
-  CITATION.cff
-  LICENSE
-
-  paper/
-    main.tex          # LaTeX source of the preprint
-    main.pdf          # compiled version of the paper
-    figures/
-      radial_density.png
-      3d_density.png
-
-  code/
-    requirements.txt  # Python dependencies
-    radial_density.py # scripts for 1D radial density plots
-    density_3d.py     # scripts for 3D probability density visualisation
-    utils.py          # shared numerical helpers (if needed)
-
-  data/               # optional numerical data (if used)
-```
 
 ---
 
@@ -97,7 +72,7 @@ If you use this work, please cite the preprint and the repository.
 > DOI: *to be assigned*
 > arXiv: *to be assigned*.
 
-A BibTeX template (update the DOI / arXiv IDs when available):
+A BibTeX template:
 
 ```bibtex
 @article{Goncharov_QSPS_2025,
@@ -106,8 +81,8 @@ A BibTeX template (update the DOI / arXiv IDs when available):
   year    = {2025},
   journal = {Preprint},
   note    = {Preprint, code and materials available at https://github.com/cryptoinsider1/QSPS},
-  doi     = {10.0000/qsps.2025.00001},     % replace with real DOI
-  eprint  = {arXiv:0000.00000},           % replace with real arXiv ID
+  doi     = {10.0000/qsps.2025.00001},     
+  eprint  = {arXiv:0009-0004-1430-3376},          
 }
 ```
 
