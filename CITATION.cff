@@ -9,6 +9,6 @@ authors:
   orcid: "https://orcid.org/0000-0004-1430-3376"
 title: "QSPS"
 version: 1.2.0
-  doi: 10.5281/qsps.2025.00001
+  doi: "10.5281/qsps.2025.00001"
 date-released: 2025-12-05
 url: "https://github.com/cryptoinsider1/QSPS"
